@@ -84,7 +84,7 @@ ssc.start()
 # In[ ]:
 
 
-ssc.awaitTermination(timeout=)
+ssc.awaitTermination(timeout=60)
 
 
 # In[ ]:
