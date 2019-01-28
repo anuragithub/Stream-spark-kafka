@@ -10,13 +10,13 @@ import time
 # In[11]:
 
 
-output_file = "D:/Mlprojects/quartic_ai/mle_task/test.txt"
+output_file = "test.txt"
 
 
 # In[12]:
 
 
-input_file = "D:/Mlprojects/quartic_ai/mle_task/test.csv"
+input_file = "test.csv"
 
 
 # In[13]:
